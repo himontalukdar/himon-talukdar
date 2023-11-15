@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himon Talukdar</h1>
 <h3 align="center">A passionate frontend & Backend developer from Bangladesh</h3>
+<img align="right" alt="codeing" width="400" src="https://raw.githubusercontent.com/kumar-sanjeet1/assets/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himontalukdar&label=Profile%20views&color=0e75b6&style=flat" alt="himontalukdar" /> </p>
 
